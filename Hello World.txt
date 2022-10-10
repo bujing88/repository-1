@@ -1,5 +1,9 @@
 def printHello():
-     print("Hello World!")
+    print("Hello World!")
+
+def printMajor():
+    print("컴퓨터공학과")
 
 if __name__ == '__main__':
-     printHello()
+    printHello()
+    printMajor()
